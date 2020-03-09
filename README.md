@@ -1,5 +1,5 @@
 # Portfolio
-Public Portfolio showcasing 
+Public Portfolio showcasing /n
     General Info
     Major Projects
     Work History
